@@ -4,4 +4,4 @@ This is a simple PCB which allow the modifcation of the QX7 a bit easier by sold
 
 
 ![alt text](https://raw.githubusercontent.com/max246/crossfire_inverter/master/preview.png)
-![alt text](https://raw.githubusercontent.com/username/crossfire_inverter/master/previewpcb.png)
+![alt text](https://raw.githubusercontent.com/max246/crossfire_inverter/master/previewpcb.png)
